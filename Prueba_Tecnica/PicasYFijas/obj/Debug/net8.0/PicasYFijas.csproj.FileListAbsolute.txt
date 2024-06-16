@@ -1,0 +1,14 @@
+C:\Users\canor\Desktop\Prueba_Tecnica\PicasYFijas\bin\Debug\net8.0\PicasYFijas.exe
+C:\Users\canor\Desktop\Prueba_Tecnica\PicasYFijas\bin\Debug\net8.0\PicasYFijas.deps.json
+C:\Users\canor\Desktop\Prueba_Tecnica\PicasYFijas\bin\Debug\net8.0\PicasYFijas.runtimeconfig.json
+C:\Users\canor\Desktop\Prueba_Tecnica\PicasYFijas\bin\Debug\net8.0\PicasYFijas.dll
+C:\Users\canor\Desktop\Prueba_Tecnica\PicasYFijas\bin\Debug\net8.0\PicasYFijas.pdb
+C:\Users\canor\Desktop\Prueba_Tecnica\PicasYFijas\obj\Debug\net8.0\PicasYFijas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canor\Desktop\Prueba_Tecnica\PicasYFijas\obj\Debug\net8.0\PicasYFijas.AssemblyInfoInputs.cache
+C:\Users\canor\Desktop\Prueba_Tecnica\PicasYFijas\obj\Debug\net8.0\PicasYFijas.AssemblyInfo.cs
+C:\Users\canor\Desktop\Prueba_Tecnica\PicasYFijas\obj\Debug\net8.0\PicasYFijas.csproj.CoreCompileInputs.cache
+C:\Users\canor\Desktop\Prueba_Tecnica\PicasYFijas\obj\Debug\net8.0\PicasYFijas.dll
+C:\Users\canor\Desktop\Prueba_Tecnica\PicasYFijas\obj\Debug\net8.0\refint\PicasYFijas.dll
+C:\Users\canor\Desktop\Prueba_Tecnica\PicasYFijas\obj\Debug\net8.0\PicasYFijas.pdb
+C:\Users\canor\Desktop\Prueba_Tecnica\PicasYFijas\obj\Debug\net8.0\PicasYFijas.genruntimeconfig.cache
+C:\Users\canor\Desktop\Prueba_Tecnica\PicasYFijas\obj\Debug\net8.0\ref\PicasYFijas.dll
